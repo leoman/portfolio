@@ -23,36 +23,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="107" column="32" selection-start="4399" selection-end="4399" vertical-scroll-proportion="-8.1" vertical-offset="1200" max-vertical-offset="3150">
+            <state line="32" column="144" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.33128834" vertical-offset="210" max-vertical-offset="3150">
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PIE.htc" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/PIE.htc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="42" selection-start="9206" selection-end="9206" vertical-scroll-proportion="-17.222221" vertical-offset="0" max-vertical-offset="1530">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="button.svg" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/images/ie9/button.svg">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="6" selection-start="432" selection-end="432" vertical-scroll-proportion="0.14545454" vertical-offset="0" max-vertical-offset="825">
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-            <state />
           </provider>
         </entry>
       </file>
@@ -67,10 +43,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js/init.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/ie8.css" />
         <option value="$PROJECT_DIR$/css/images/ie9/button.svg" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -318,23 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="107" column="32" selection-start="4399" selection-end="4399" vertical-scroll-proportion="-8.1" vertical-offset="1200" max-vertical-offset="3150">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/PIE.htc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="42" selection-start="9206" selection-end="9206" vertical-scroll-proportion="-17.222221" vertical-offset="0" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/images/ie9/button.svg">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="6" selection-start="432" selection-end="432" vertical-scroll-proportion="0.14545454" vertical-offset="0" max-vertical-offset="825">
@@ -343,6 +302,23 @@
       </provider>
       <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/PIE.htc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="42" selection-start="9206" selection-end="9206" vertical-scroll-proportion="0.5726601" vertical-offset="0" max-vertical-offset="1530">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="144" selection-start="1449" selection-end="1449" vertical-scroll-proportion="0.33128834" vertical-offset="210" max-vertical-offset="3150">
+          <folding />
+        </state>
       </provider>
     </entry>
   </component>
